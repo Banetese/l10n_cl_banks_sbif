@@ -37,5 +37,5 @@ Update Chilean Banks and add their Official codes, according to SBIFs codes
         'data/res.bank.csv',
         'views/res_bank_sbif.xml'
     ],
-    'version': '11.0.1.0.1',
+    'version': '12.0.1.0.1',
 }
